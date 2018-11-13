@@ -1,0 +1,30 @@
+> hello
+['hello hello', 'hello hi', 'hello <UNK>', 'you know what you say', 'hello you know what you say']
+hello hello
+> how are you
+['fine fine', 'im fine', 'fine good', 'i dont know', 'i dont know what i mean']
+fine fine
+> Have you heard about 'machine learning and having it deep and structured'?
+['i know', 'i dont know', 'i dont know what it is', 'i dont know what you mean', 'i dont know what i mean']
+i know
+> What's your name
+['<UNK> <UNK>', '<UNK> sir', 'i dont know', 'what do you mean', 'what are you talking about']
+<UNK> <UNK>
+> I guess I thought I was protecting you.
+['i dont know', 'what do you mean', 'i know', 'what do you think', 'i dont know what i mean']
+i dont know
+> Forget his reputation.  Do you think we've got a plan or not?
+['i know', 'i dont know', 'i dont want to know', 'i dont want to go to school', 'i dont want to go to jail']
+i know
+> Can you do me a favor?
+['i dont know', 'no no no no no no', 'i dont know what you mean', 'no no no no no no no', 'no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no']
+i dont know
+> What's next?
+['<UNK> <UNK>', 'i know', 'i dont know', 'what are you doing here', 'what are you doing']
+<UNK> <UNK>
+> You played for the Red Sox?
+['<UNK> <UNK>', 'i know', 'i dont know', 'i dont want to go back', 'i dont want to go to bed']
+<UNK> <UNK>
+>  What did he say?
+['i dont know', 'he said he said he did', 'he said he was in the <UNK>', 'he said he said he said he said he said he said he said he said he said he said he said he said he said he was a little boy', 'he said he said he said he said he said he said he said he said he said he said he said he said he said he was a little <UNK>']
+i dont know
